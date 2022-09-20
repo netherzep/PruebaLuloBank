@@ -10,7 +10,9 @@ Pasos para la correcta ejecución de los scripts:
    pip install pandas y pip install pandas-profiling.
 3. Con los paquetes instalados, se ejecuta el script Main.py el cual durante su ejecución, descargara y guardará los archivos json obtenidos del API en la carpeta json/
 4. Se guardará el archivo del profiling en la carpeta profiling/ el cual contiene con él un archivo de POWER BI con el análisis de los datos obtenidos por el dataframe.
-5. Adicionalmente se creará un tabla llamada performance.db en la carpeta db que contiene un proyecto creado en DB Browser (SQLite) en el cual se crean tablas adicionales 
-   para responer las preguntas del punto 6.
+5. Adicionalmente se creará un tabla llamada performance.db en la carpeta db que contiene un proyecto creado en DB Browser (SQLite) en el cual se crean tablas adicionales para responer las preguntas del punto 6.
+
+6. Finalmente, en la carpeta model se encontrará un archivo .drawio al cual se puede acceder mediante el siguiente link: https://app.diagrams.net/ dando click en la opción "abrir diagrama existente" y buscando el diagrama en el destino guardado
+ 
 
 Les agradezco mucho por esta oportunidad y espero su respuesta. Un abraso team Lulo Bank =)
